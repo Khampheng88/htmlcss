@@ -31,7 +31,8 @@
 
 .background-container {
   background-color: #FAFAFA;
-
+  width: 1600px;
+  margin: auto;
 }
 
 .container {
@@ -400,7 +401,7 @@
 
 
 .container5 {
-  width: 1350px;
+  width: 1600px;
   height: 850px;
   margin: auto;
   justify-content: space-evenly;
