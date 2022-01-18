@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -70,7 +72,7 @@
 .container .login{
     list-style-type: none;
     padding: 0;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     overflow: hidden;
     margin-right: 14px;
     margin-top: 8px;
@@ -141,7 +143,7 @@
 .row-top .item1 .button .ul-detail li a{
   display: flex;
   font-size: 14px;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   border-radius: 5px;  
   line-height: 40px;
   padding: 5px 45px;
@@ -160,7 +162,7 @@
 .row-main .row-top .item1 h5 {
   color: #FF685B;
   font-size: 16px;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   letter-spacing: 0.1px;
   line-height: 24px;
   font-weight: 700;
@@ -168,7 +170,7 @@
 }
 
 .row-main .row-top .item1 h1 {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 58px;
   letter-spacing: 0.2px;
   line-height: 80px;
@@ -178,7 +180,7 @@
 }
 
 .row-main .row-top .item1 h4 {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 20px;
   letter-spacing: 0.2px;
   line-height: 30px;
@@ -204,7 +206,7 @@
 }
 
 .card-main .card p {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -215,7 +217,7 @@
 }
 
 .card-main .card h5 {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -250,7 +252,7 @@
 }
 
 .int .row-int .block {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -261,7 +263,7 @@
 }
 
 .row-int .block h1 {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 58px;
   font-style: normal;
   font-weight: 700;
@@ -309,7 +311,7 @@
 }
 
 .two-bar .border-two-bar .h2-two-bar {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -319,7 +321,7 @@
 }
 
 .two-bar .border-two-bar .p-two-bar {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -333,7 +335,7 @@
 .two-bar .border-two-bar ul.two-button a {
   text-decoration: none;
   list-style: none;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 700;
@@ -416,7 +418,7 @@
 
 .container5 .inner-main .inner {
   height: 115px;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   letter-spacing: 0.20000000298023224px;
 }
@@ -504,7 +506,7 @@
 }
 
 .inner-1 .tag .box .box-1 .detail-box .name p{
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 700;
@@ -530,7 +532,7 @@
   position: relative;
   top: 0.2px;
   color: white;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 12px;
   font-style: normal;
   font-weight: 400;
@@ -539,7 +541,7 @@
 }
 
 .inner-1 .tag .box .box-1 h5 {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -548,7 +550,7 @@
 }
 
 .inner-1 .tag .box .box-1 p {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 11.5px;
   font-style: normal;
   font-weight: 400;
@@ -564,7 +566,7 @@
 }
 
 .inner-1 .tag .box .box-1 .sale p{
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 700;
@@ -587,7 +589,7 @@
 
 .inner-1 .tag .box .box-1 .money .money-1 {
   color: #BDBDBD;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -598,7 +600,7 @@
 
 .inner-1 .tag .box .box-1 .money .money-2 {
   color: #5AACA8;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -622,7 +624,7 @@
 }
 
 .inner-1 .tag .box .box-1 .more .box-more .name {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 700;
@@ -662,7 +664,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   letter-spacing: 0.20000000298023224px;
   font-style: normal;
 }
@@ -693,7 +695,7 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   letter-spacing: 0.20000000298023224px;
   font-style: normal;
   position: relative;
@@ -726,7 +728,7 @@
 }
 
 .number .number-two .last .top-last1 a{
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -756,7 +758,7 @@
 }
 
 .number .number-two .last .bottom-last1 .bottom-last1-text h6{
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 700;
@@ -767,7 +769,7 @@
 }
 
 .number .number-two .last .bottom-last1 .bottom-last1-text a{
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 12px;
   font-style: normal;
   font-weight: 400;
@@ -800,7 +802,7 @@ justify-content: space-evenly;
 }
 
 .btn-one h6 {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 700;
@@ -810,7 +812,7 @@ justify-content: space-evenly;
 }
 
 .btn-one h2 {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -820,7 +822,7 @@ justify-content: space-evenly;
 }
 
 .btn-one p {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -864,7 +866,7 @@ justify-content: space-evenly;
 }
 
 .two-x .two-bottom h5 {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -876,7 +878,7 @@ justify-content: space-evenly;
 }
 
 .two-x .two-bottom p {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 12px;
   font-style: normal;
   font-weight: 400;
@@ -919,7 +921,7 @@ justify-content: space-evenly;
   justify-content: space-between;
   height: 125px;
   text-align: center;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   letter-spacing: 0.20000000298023224px;
 }
@@ -959,7 +961,7 @@ justify-content: space-evenly;
   width: 571px;
   height: 58px;
   border: 1px solid #E5E5E5;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -976,7 +978,7 @@ justify-content: space-evenly;
   height: 58px;
   border: 0px solid #E5E5E5;
   background: #FF685B;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -1028,7 +1030,7 @@ justify-content: space-evenly;
 }
 
 .winner-in h5 , .winner-in-5 h5 {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -1038,7 +1040,7 @@ justify-content: space-evenly;
 }
 
 .winner-in p , .winner-in-5 p {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 700;
@@ -1077,7 +1079,7 @@ justify-content: space-evenly;
 }
 
 .winner-in-5 .in5 .in5-1 h6 {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 700;
@@ -1099,7 +1101,7 @@ justify-content: space-evenly;
 .footer .footer-x .x-1 {
   position: relative;
   top: 1px;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
